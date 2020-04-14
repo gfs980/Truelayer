@@ -1,0 +1,15 @@
+{
+  "name": "truelayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "hackernews": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^13.3.2"
+  }
+}
